@@ -1,8 +1,5 @@
 Strength through Struggle - Michael Choi
 
-I like blue - Jay Patel
-<<<<<<< HEAD
+I like yellow - Jay Patel
 
 Live long and prosper - Spock
-=======
->>>>>>> personal_quotes
