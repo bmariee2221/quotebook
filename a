@@ -1,0 +1,63 @@
+[33mcommit a85c6e446e30abe02b9bea10b77d217b61b58afc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: be8c8c6 a246fe9
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:54:05 2019 -0400
+
+    fixed merge conflict
+
+[33mcommit be8c8c6bfacc28e7632f1c9d0085c9121934cb88[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:51:38 2019 -0400
+
+    changed color to green
+
+[33mcommit a246fe9d2d0fa4c4553276a84b8ca6c749d85d55[m[33m ([m[1;32mpersonal_color[m[33m)[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:50:22 2019 -0400
+
+    changed color to yellow
+
+[33mcommit 6b30b81fac62fda5833d774df0578f1db9722998[m
+Merge: 99bcbb8 c623424
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:45:34 2019 -0400
+
+    adding personal_quotes
+
+[33mcommit 99bcbb8d632b279e4e87d1f0509f935a9edfee0c[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:29:52 2019 -0400
+
+    added Spock quote
+
+[33mcommit c6234248e09a94b7cdf32d9babbd44b693c49299[m[33m ([m[1;32mpersonal_quotes[m[33m)[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:28:28 2019 -0400
+
+    added quote about blue
+
+[33mcommit 600c796068cbb8a4e5ea8d5015ef3a309e62dd5d[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sun Aug 11 19:01:01 2019 -0400
+
+    First commit on personal_quotes
+
+[33mcommit fd4c0416e8a999bb5278adb3131ab905ddbe8d41[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sat Aug 10 20:15:41 2019 -0400
+
+    Revert "second commit"
+    
+    This reverts commit 588e6f91b5b16457b3527103cb55d29c7ddaf850.
+
+[33mcommit 588e6f91b5b16457b3527103cb55d29c7ddaf850[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sat Aug 10 19:49:07 2019 -0400
+
+    second commit
+
+[33mcommit fa059a5f7d2adb0dc44e9ac49024a689824e99e1[m
+Author: Brittneyq Combs <mariee2221@gmail.com>
+Date:   Sat Aug 10 19:19:42 2019 -0400
+
+    Initial Commit
